@@ -1,0 +1,4 @@
+cfgmgr
+======
+
+Configuration management project
